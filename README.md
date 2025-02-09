@@ -18,5 +18,3 @@ Las consultas incluyen:
 - Detalles de IVR.
 - Información por DNI y teléfono.
 - Identificación de llamadas repetidas en un periodo de 24 horas.
-
-Este proyecto es una práctica avanzada de SQL que busca mejorar las habilidades en la gestión y análisis de bases de datos complejas.
